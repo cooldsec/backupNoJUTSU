@@ -1,0 +1,10 @@
+MODO USO
+
+php exploit.php lista.txt
+
+Sites vulneraveis:
+vuln.txt
+
+
+by Cooldsec
+fb.com/akatsukgang666/
